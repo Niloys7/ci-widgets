@@ -5,7 +5,7 @@
 $manifest = array();
 
 $manifest['name']        = __( 'Widgets', 'fw' );
-$manifest['description'] =__( 'This extension have some usefull widgets that you can use on your sidebar', 'fw' );
+$manifest['description'] =__( 'This extension have some usefull widgets that you can use on sidebar', 'fw' );
 $manifest['version'] = '0.1';
 $manifest['display'] = true;
 $manifest['standalone'] = true;
